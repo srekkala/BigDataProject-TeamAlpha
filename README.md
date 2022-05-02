@@ -18,4 +18,10 @@ output: A .h5 file is generated
 run 'gui.py' file
 A window is opened to give an input
 
+Team: Team Alpha
+Rekkala Sailaja Reddy - 16331539
+Shravya Dongala - 16331433
+Sai Aravind Namboori - 16326784
+Sai Prathyush Talakoti - 16321863
+
 
