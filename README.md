@@ -10,6 +10,7 @@ jupyter notebook
 
 Dataset Used:
 'German Traffic Sign Recognition Benchmark' : Multiclass dataset
+Source to download: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 Usage:
 run 'traffic sign.ipynb' file using jupyter
